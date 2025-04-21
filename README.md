@@ -22,6 +22,5 @@ This work builds on academic research in **AI governance and cybersecurity**, an
 
 ## 📬 Contact
 Valentina Schiavon  
-[GSoC Profile](https://summerofcode.withgoogle.com/)  
 [LinkedIn](https://www.linkedin.com/in/valentinaschiavon1/)  
 valentina.schiavon@aau.at
