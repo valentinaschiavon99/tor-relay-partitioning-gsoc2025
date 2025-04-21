@@ -2,6 +2,13 @@
 
 This repository supports my proposal for **Google Summer of Code 2025** under **The Tor Project**.
 
+# GSoC 2025 – Graph-Based Analysis of Relay Partitioning in the Tor Network
+
+![GSoC Proposal Phase](https://img.shields.io/badge/GSoC%202025-Proposal%20Phase-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+This repository supports my proposal for **Google Summer of Code 2025** under **The Tor Project**.
+
 ## 📌 Summary
 The project aims to detect **relay partitioning** in the Tor network using **graph analysis** techniques.  
 By modeling relay connectivity as a graph and applying algorithms via **Neo4j GDS**, the system will identify potential partitions that may compromise network integrity.
