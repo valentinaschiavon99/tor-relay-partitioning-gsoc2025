@@ -20,6 +20,10 @@ By modeling relay connectivity as a graph and applying algorithms via **Neo4j GD
 ## 🤝 About
 This work builds on academic research in **AI governance and cybersecurity**, and represents a step toward contributing to **open-source privacy infrastructure**.
 
+⚠️ Note: This repository is currently in the GSoC 2025 proposal phase.  
+Development is exploratory and will follow official coding guidelines upon acceptance.
+
+
 ## 📬 Contact
 Valentina Schiavon  
 [LinkedIn](https://www.linkedin.com/in/valentinaschiavon1/)  
