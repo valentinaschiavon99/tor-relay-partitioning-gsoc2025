@@ -1,0 +1,19 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Rust build
+/target/
+**/*.rs.bk
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
